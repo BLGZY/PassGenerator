@@ -1,4 +1,5 @@
 import random
+print("Creater:BLG")
 chars = '+-/*!&$#?=@<>abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
 number = input('Количество паролей?'+ "\n")
 length = input('Длина пароля?'+ "\n")
